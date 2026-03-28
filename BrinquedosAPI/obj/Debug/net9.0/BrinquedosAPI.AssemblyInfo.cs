@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrinquedosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce3462ecafee570445fa9a734b343afa3f4d141d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrinquedosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrinquedosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

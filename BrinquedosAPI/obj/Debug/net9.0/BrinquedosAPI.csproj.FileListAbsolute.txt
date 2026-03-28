@@ -164,3 +164,4 @@ C:\Users\gusta\Downloads\CP.Net\BrinquedosShop\BrinquedosAPI\obj\Debug\net9.0\re
 C:\Users\gusta\Downloads\CP.Net\BrinquedosShop\BrinquedosAPI\obj\Debug\net9.0\BrinquedosAPI.pdb
 C:\Users\gusta\Downloads\CP.Net\BrinquedosShop\BrinquedosAPI\obj\Debug\net9.0\BrinquedosAPI.genruntimeconfig.cache
 C:\Users\gusta\Downloads\CP.Net\BrinquedosShop\BrinquedosAPI\obj\Debug\net9.0\ref\BrinquedosAPI.dll
+C:\Users\gusta\Downloads\CP.Net\BrinquedosShop\BrinquedosAPI\obj\Debug\net9.0\BrinquedosAPI.sourcelink.json
